@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Categories" max_length="40" name="x_58872_needit_categories" type="collection">
+        <element label="Category" max_length="15" name="category" type="string"/>
+    </element>
+</database>
